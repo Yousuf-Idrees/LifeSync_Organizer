@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1735772947 source:c:\users\yassin\onedrive\desktop\eui\semester 3\projects\data structure project\lifesync organizer\main.cpp
+	<iostream>
+	<unordered_map>
+	<stack>
+	<string>
+	<iomanip>
+
